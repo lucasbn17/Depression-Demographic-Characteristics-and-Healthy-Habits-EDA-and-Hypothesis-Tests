@@ -1,6 +1,8 @@
 # Depression-Demographic-Characteristics-and-Healthy-Habits---EDA-and-Statistical-Inference
 EDA and Statistical Inference using dataset from the National Health and Nutrition Examination Survey (NHANES) conducted by the National Center for Health Statistics (NCHS) and by the Centers for Disease Control - CDC.
 
+Medium article: https://medium.com/@lucasbn17/some-other-ways-of-doing-hypothesis-tests-for-a-statistical-inference-on-python-than-using-the-c4c502543cd3
+
 Variables from DEMO_PHQ.csv (habits, feelings, demographic characteristics, and activities data).
 Symptoms of depression - Measure range from 0 to 3 (0 = “never”, 1 = “less than one week”, 2 = “one week or more”, 3 = “almost everyday”, 7 = "refused to answer" e 9 = "doesn't know").
 Questions:
