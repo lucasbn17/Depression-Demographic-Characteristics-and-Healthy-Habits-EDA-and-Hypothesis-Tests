@@ -1,4 +1,7 @@
+Depression, Demographic Characteristics, and Healthy Habits - EDA and Statistical Inference
+
 DEPRESSION AND HEALTHY HABITS
+
 Depressive disorder represents a major public health problem and is identified as one of the main causes of illness and debilitation according to the World Health Organization (WHO). Depression results from a complex interaction of social, psychological and biological factors, and although access to diagnoses and treatments is increasing, many still lack access to adequate control of depressive symptoms.
 
 To ensure a healthy lifestyle, the WHO recommends regular exercise, as well as the adoption of a healthy diet rich in natural foods and low in saturated fat, salt and refined sugars.
