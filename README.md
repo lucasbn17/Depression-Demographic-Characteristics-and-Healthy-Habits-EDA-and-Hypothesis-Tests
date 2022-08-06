@@ -1,4 +1,4 @@
-Depression, Demographic Characteristics, and Healthy Habits - EDA and Statistical Inference
+Depression, Demographic Characteristics, and Healthy Habits - EDA and Hypothesis Tests
 
 DEPRESSION AND HEALTHY HABITS
 
